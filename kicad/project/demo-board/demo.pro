@@ -1,4 +1,4 @@
-update=Sat 02 Jan 2016 02:20:11 AM EET
+update=Sun 24 Jan 2016 11:40:48 PM EET
 version=1
 last_client=kicad
 [general]
@@ -6,25 +6,6 @@ version=1
 [cvpcb]
 version=1
 NetIExt=net
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=
-PadDrill=0.762
-PadDrillOvalY=0.762
-PadSizeH=1.524
-PadSizeV=1.524
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
-PcbTextThickness=0.3
-ModuleTextSizeV=0.8099999999999999
-ModuleTextSizeH=0.8099999999999999
-ModuleTextSizeThickness=0.16
-SolderMaskClearance=-0.12
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.16
-BoardOutlineThickness=0.16
-ModuleOutlineThickness=0.16
 [eeschema]
 version=1
 LibDir=../../libs
@@ -63,3 +44,22 @@ LibName31=self/kicad-imciner_local/symbols/DataStorage
 LibName32=self/usbarmory_local/armory
 LibName33=self/display_local/display_local
 LibName34=3rd-party/kicadlibrary/open-project
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=
+PadDrill=0.762
+PadDrillOvalY=0.762
+PadSizeH=1.524
+PadSizeV=1.524
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=0.8099999999999999
+ModuleTextSizeH=0.8099999999999999
+ModuleTextSizeThickness=0.16
+SolderMaskClearance=-0.12
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.16
+BoardOutlineThickness=0.16
+ModuleOutlineThickness=0.16

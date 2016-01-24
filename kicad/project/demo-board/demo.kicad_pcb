@@ -236,7 +236,7 @@
       (net 1 GND))
     (pad 10 smd rect (at -6.72592 -3.59918 180) (size 1.04902 1.50114) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
-    (model ${HOME}/kicad_ecf_project/hw/kicad/libs/self/usbarmory_local/3D/SD-Amp-microSlot.wrl
+    (model ${HOME}/kicad_ecf_project/libs/self/usbarmory_local/3D/SD-Amp-microSlot.wrl
       (at (xyz 0 -0.26 0))
       (scale (xyz 0.3777 0.3777 0.3777))
       (rotate (xyz 0 0 0))
@@ -1035,7 +1035,7 @@
       (net 23 /RXD0))
     (pad 22 smd oval (at 16 0) (size 2.4 1.1) (layers F.Cu F.Paste F.Mask)
       (net 24 /TXD0))
-    (model ${HOME}/kicad_ecf_project/hw/kicad/libs/self/kicad-ESP8266_local/ESP8266.3dshapes/ESP-12.wrl
+    (model ${HOME}/kicad_ecf_project/libs/self/kicad-ESP8266_local/ESP8266.3dshapes/ESP-12.wrl
       (at (xyz 0.048 0 0))
       (scale (xyz 0.39 0.39 0.39))
       (rotate (xyz 0 0 0))
